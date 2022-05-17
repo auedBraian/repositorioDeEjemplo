@@ -5,3 +5,5 @@ let resultado: number = 0;
 resultado = a + b;
 
 console.log(resultado);
+
+resultado = 0;
